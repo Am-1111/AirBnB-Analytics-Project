@@ -17,6 +17,7 @@ This project provides a comprehensive analysis of AirBnB data to uncover insight
   - Seasonal Booking Trends
   - Host Performance Metrics
 - **Datasets**:[AirBnB dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+- **Link to My Tableau Workbook** : [AirBnB Full Project](https://haproxy-traffic-splitter/views/AirBnBFullProject_17354812430430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Installation
 To explore the Tableau Workbook:

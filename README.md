@@ -10,13 +10,13 @@ This project provides a comprehensive analysis of AirBnB data to uncover insight
 - **Visual Storytelling**: Engaging and informative visualizations for quick data comprehension.
 
 ## Project Contents
-- **`.twbx` File**: Contains the Tableau Workbook with all the data visualizations and analysis.
+- **`AirBnB Full Project.twbx` File**: Contains the Tableau Workbook with all the data visualizations and analysis.
 - **Dashboards**:
   - Pricing Trends Analysis
   - Neighborhood Insights
   - Seasonal Booking Trends
   - Host Performance Metrics
-- **Datasets**: [Specify if included or provide links if publicly available].
+- **Datasets**:(https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## Installation
 To explore the Tableau Workbook:

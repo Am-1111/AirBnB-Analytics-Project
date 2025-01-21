@@ -1,6 +1,6 @@
 ## Requirements
-- Software: Tableau Desktop (Download from [Tableau](https://www.tableau.com/)).
-- Data Source: [Dataset](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
+- Software: Tableau Desktop Download from https://www.tableau.com/.
+- Data Source: Dataset fom https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 - System Requirements:
   - Operating System: Windows 10 or macOS 10.14 (or newer)
   - Memory: At least 4 GB RAM (8 GB recommended)
